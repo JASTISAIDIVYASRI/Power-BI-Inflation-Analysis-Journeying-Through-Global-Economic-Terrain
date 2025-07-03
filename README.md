@@ -9,4 +9,4 @@ Our approach involves data collection, preparation, and modeling to build a robu
   
 - Project Documentation : [Inflation Analysis Documentation.pdf](https://github.com/user-attachments/files/21037905/Inflation.Analysis.Documentation.pdf)
 
-- project Demo : [Click Here to Check the Demo of Project](
+- project Demo : [Click Here to Check the Demo of Project](https://drive.google.com/file/d/1-qvIkKCu3yHg7h9jY7MyZGZzcnvgOz0d/view?usp=drive_link)
